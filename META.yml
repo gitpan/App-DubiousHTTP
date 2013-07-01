@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-DubiousHTTP
-version:            0.006
+version:            0.007
 abstract:           use ambiguous HTTP to circumvent security systems
 author:
     - Steffen Ullrich <sullr@cpan.org>
